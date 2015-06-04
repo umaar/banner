@@ -22,7 +22,7 @@
   "related_applications": [
     {
       "platform": "play",
-      "id": "com.shazam.encore.android"
+      "id": "com.shazam.android"
     }
   ],
   "start_url": "./index.html",
